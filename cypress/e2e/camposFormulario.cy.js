@@ -1,7 +1,7 @@
 /// <reference types="cypress" />
 
 
-describe('Validação dos Campos no Formulário de Login', () =>{
+describe('Validação dos Campos no Formulário de Login e Contato', () =>{
 
     beforeEach('Acessar tela inicial',()=>{
         cy.visit('/')
