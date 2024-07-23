@@ -1,0 +1,14 @@
+{
+  "name": "colmeia",
+  "version": "1.0.0",
+  "description": "Teste vaga QA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lima Bruno",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.13.1"
+  }
+}
